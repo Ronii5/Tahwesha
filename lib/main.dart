@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
+  //ganna
 }
 
 class MyApp extends StatelessWidget {
@@ -65,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
     });
-  }
+  }//qqqqqq
 
   @override
   Widget build(BuildContext context) {
